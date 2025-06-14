@@ -1,0 +1,1 @@
+# AWS-opensearch-local
