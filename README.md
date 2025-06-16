@@ -126,15 +126,16 @@ docker-compose down
 
 ### ✅ OpenSearch API Running at `localhost:9200`
 
-![OpenSearch API Screenshot](./screenshots/opensearch_api.png)
+![Screenshot from 2025-06-13 19-54-03](https://github.com/user-attachments/assets/fcd821f5-b118-4789-9ba9-4d297353d7a3)
+
 
 ### 📊 OpenSearch Dashboards at `localhost:5601`
 
-![OpenSearch Dashboard Screenshot](./screenshots/opensearch_dashboards.png)
+![Screenshot from 2025-06-13 19-49-59](https://github.com/user-attachments/assets/979c1452-e0b1-451b-89ee-8b170fb8ed7e)
 
 ### 🐍 Sample Python Script Output
+![Screenshot from 2025-06-13 19-54-03](https://github.com/user-attachments/assets/f01b8aa8-2a34-4f1c-a961-6c776014e9c6)
 
-![Python Script Output Screenshot](./screenshots/python_output.png)
 
 ---
 
